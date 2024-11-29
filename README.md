@@ -1,1 +1,1 @@
-# Article.DSS.ODataCLI.ExtractWithNotes
+### This is an example of this [Using .NET ODataCLI with DSS REST API ExtractWithNotes]([https://developers.lseg.com/en/article-catalog/article/using--net-odatacli-with-dss-rest-api-authentication](https://developers.lseg.com/en/article-catalog/article/using--net-odatacli-with-dss-rest-api-extractwithnotes)) article. 
